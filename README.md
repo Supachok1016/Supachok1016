@@ -1,9 +1,3 @@
-## Hi there 👋
-
-# Hi there 👋
-
-I'm Supachok.
-
 ## About Me
 
 * 💻 Interested in programming and technology

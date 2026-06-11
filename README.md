@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Supachok1016/Supachok1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+I'm Supachok.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* 💻 Interested in programming and technology
+* 🎬 Enjoy watching movies
+* 🎵 Love listening to music
+* 🌱 Always learning new things
+
+## Tech Stack
+
+* HTML, CSS, JavaScript
+* Git & GitHub
+
+## Fun Facts
+
+* 🍿 A good movie can make my day
+* 🎧 Music helps me focus and relax
+
+## Contact
+
+* GitHub: @Supachok1016
+
+Thanks for visiting my profile! ✨
+
